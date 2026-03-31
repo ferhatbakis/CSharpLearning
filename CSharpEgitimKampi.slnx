@@ -8,4 +8,5 @@
   <Project Path="07_ForeachLoop/07_ForeachLoop.csproj" Id="fc0a9688-7052-4df3-ba83-6ef1a62842ae" />
   <Project Path="08_Methods/08_Methods.csproj" Id="4f57c2c5-ff70-4cd1-8232-9922505e51ab" />
   <Project Path="09_DatabaseProject/09_DatabaseProject.csproj" Id="7a443766-d73e-4881-b30d-c85b41160231" />
+  <Project Path="10_DatabaseCrud/10_DatabaseCrud.csproj" Id="e7144b58-eda6-4dc1-9d6e-1d6112deb49c" />
 </Solution>
